@@ -71,7 +71,7 @@ Fokus proyek ini adalah memantau tren kebutuhan produksi dengan kapasitas, utili
 Mengurai efisiensi dan Biaya Tenaga Kerja Langsung (Cost DL) per unit untuk setiap lini produk guna menemukan lini paling tidak efisien.
 
 ### [Project 14: Dashboard Proyeksi Penjualan](Project14_Proyeksi_Penjualan.md)
-Analisis tren pasar harian untuk memetakan dominasi *brand* dan tipe produk, yang berfungsi sebagai acuan *section PPIC* dalam memprioritaskan alokasi bahan baku dan *section Production* untuk urutan produksi.
+Analisis tren pasar untuk memetakan dominasi *brand* dan tipe produk, yang berfungsi sebagai acuan *section PPIC* dalam memprioritaskan alokasi bahan baku dan *section Production* untuk urutan produksi.
 
 ### [Project 15: Dashboard Absensi Produksi](Project15_Absensi.md)
 Pemantauan rasio kedisiplinan dan kehadiran karyawan operasional di *section Production* guna mendukung kebutuhan sumber daya manusia berbasis target.
