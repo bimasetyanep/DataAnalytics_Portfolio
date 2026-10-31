@@ -2,10 +2,13 @@
 
 Dalam proyek ini, saya menganalisis fluktuasi demografi tenaga kerja harian di pabrik serta rasio penempatannya (*Direct* vs *Indirect Labor*). Fokus utama proyek ini adalah mengidentifikasi efisiensi pengeluaran *overhead* tenaga kerja di tengah tren pergerakan jumlah karyawan.
 
-![Dashboard Direct Indirect 1](path/ke/gambar/dashboard_direct_indirect_plant1.png)
-![Dashboard Direct Indirect 2](path/ke/gambar/dashboard_direct_indirect_plant2.png)
-![Dashboard Direct Indirect 3](path/ke/gambar/dashboard_direct_indirect_plant3.png)
-![Dashboard Direct Indirect 4](path/ke/gambar/dashboard_direct_indirect_plant4.png)
+![Dashboard Direct Indirect 1](images/dashboard_direct_indirect_plant1.png)
+
+![Dashboard Direct Indirect 2](images/dashboard_direct_indirect_plant2.png)
+
+![Dashboard Direct Indirect 3](images/dashboard_direct_indirect_plant3.png)
+
+![Dashboard Direct Indirect 4](images/dashboard_direct_indirect_plant4.png)
 
 
 ## Overview Masalah
