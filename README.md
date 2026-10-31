@@ -1,10 +1,10 @@
 # Portofolio Analisis Data
 
-Selamat datang di portofolio analisis data saya! Repositori ini berisi kumpulan proyek pembuatan *dashboard* dan pelaporan analitik yang berfokus pada berbagai departemen operasional manufaktur/pabrik. Seluruh visualisasi data di bawah ini dirancang untuk memantau Balanced Scorecard (BSC), efisiensi produksi, dan kinerja sumber daya manusia.
+Selamat datang di portofolio analisis data saya! Berisi kumpulan proyek pembuatan *dashboard* dan pelaporan analitik yang berfokus pada berbagai departemen operasional manufaktur/pabrik. Seluruh visualisasi data di bawah ini dirancang untuk memantau Balanced Scorecard (BSC), efisiensi produksi, dan kinerja sumber daya manusia.
 
 ---
 
-## Daftar Proyek
+## Table of Contents
 
 * [Project 1: Dashboard Direct dan Indirect Plant](Project01_Direct_Indirect.md)
 * [Project 2: Dashboard Performa Operator](Project02_Performa_Operator.md)
@@ -32,64 +32,64 @@ Selamat datang di portofolio analisis data saya! Repositori ini berisi kumpulan 
 ## Projects Overview
 
 ### [Project 1: Dashboard Direct dan Indirect Plant](Project01_Direct_Indirect.md)
-Proyek ini memantau fluktuasi jumlah tenaga kerja dan rasio pekerja langsung (Direct) vs tidak langsung (Indirect) untuk mengevaluasi efisiensi biaya *overhead* di lantai pabrik harian[cite: 2].
+Memantau fluktuasi jumlah tenaga kerja dan rasio berbasis *output* (Direct) vs tidak berbasis *output* (Indirect) untuk mengevaluasi kebutuhan untuk *man power planning* di akhir bulan.
 
 ### [Project 2: Dashboard Performa Operator](Project02_Performa_Operator.md)
-Fokus proyek ini adalah melacak efisiensi waktu kerja operator (TC Performance) dan mendeteksi aktivitas yang menjadi *bottleneck* (seperti pindah proses atau suplai lambat) pada 21 lini produksi[cite: 2].
+Melaporkan pencapaian kerja operator produksi, *index* antar *sub section* produksi, dan mendeteksi aktivitas yang menjadi *bottleneck* (seperti pindah proses atau suplai lambat) pada tiap lini produksi.
 
 ### [Project 3: Dashboard Customer Complaint](Project03_Customer_Complaint.md)
-Analisis akar penyebab keluhan pelanggan, memisahkan kesalahan antara kelalaian pabrik internal (misal: kelengkapan komponen) dan material cacat dari pihak pemasok (*supplier*)[cite: 2].
+Analisis akar penyebab keluhan pelanggan, memisahkan kesalahan antara kelalaian pabrik internal (misal: kelengkapan komponen) dan material cacat dari pihak pemasok (*supplier*).
 
 ### [Project 4: Dashboard Breakdown Mesin](Project04_Breakdown_Mesin.md)
-Dashboard ini melacak akumulasi waktu henti (*downtime*) dan memetakan zona lantai produksi yang paling banyak menyedot biaya perbaikan (*maintenance cost*) akibat kerusakan mesin[cite: 2].
+Melakukan akumulasi waktu henti (*downtime*) dan memetakan area serta lantai yang paling banyak mengeluarkan biaya perbaikan (*maintenance cost*) akibat kerusakan mesin.
 
 ### [Project 5: Dashboard Performa Mekanik](Project05_Performa_Mekanik.md)
-Proyek ini mengukur *Service Level Agreement* (SLA) masing-masing mekanik pabrik dalam menangani perbaikan, guna menemukan *gap* keterampilan teknis dalam tim[cite: 2].
+Proyek ini mengukur *Service Level Agreement* (SLA) masing-masing mekanik di  dalam menangani perbaikan, guna menemukan *gap* keterampilan teknis dalam tim.
 
 ### [Project 6: Dashboard Penggunaan Jarum](Project06_Penggunaan_Jarum.md)
-Analisis preventif terhadap konsumsi jarum jahit harian, mengidentifikasi mesin paling boros jarum dan mencegah kerusakan material akibat jarum tumpul[cite: 2].
+Analisis preventif terhadap konsumsi jarum jahit harian, mengidentifikasi mesin paling boros jarum dan mencegah kerusakan material akibat jarum tumpul.
 
 ### [Project 7: Dashboard Penggunaan Spareparts](Project07_Penggunaan_Spareparts.md)
-Visualisasi tingkat konsumsi suku cadang pabrik untuk optimalisasi *Minimum Order Quantity* (MOQ) dan mengontrol pengeluaran biaya perbaikan[cite: 2].
+Visualisasi tingkat konsumsi suku cadang pabrik untuk optimalisasi *Minimum Order Quantity* (MOQ) dan mengontrol pengeluaran biaya perbaikan.
 
 ### [Project 8: Dashboard OEE (Overall Equipment Effectiveness)](Project08_OEE.md)
-Proyek ini menggunakan metrik standar global (Availability, Performance, Quality) untuk menilai seberapa efektif mesin pabrik beroperasi secara keseluruhan[cite: 2].
+Proyek ini menggunakan metrik standar global (Availability, Performance, Quality) untuk menilai seberapa efektif mesin pabrik beroperasi secara keseluruhan.
 
 ### [Project 9: Dashboard ETA VS. ATA Kontainer](Project09_ETA_ATA.md)
-Pemantauan rantai pasok (*supply chain*) yang berfokus pada ketepatan waktu pengiriman material oleh *supplier* untuk memitigasi risiko berhentinya lini produksi[cite: 2].
+Pemantauan rantai pasok (*supply chain*) yang berfokus pada ketepatan waktu pengiriman material oleh *supplier* untuk memitigasi risiko berhentinya operasional pabrik.
 
 ### [Project 10: Dashboard Tracker Sales Order, Production Order, Finish Good](Project10_Tracker_Produksi.md)
-Proyek ini melacak tingkat keberhasilan (*conversion rate*) dari target rencana produksi awal hingga menjadi barang jadi (*Finish Good*) yang siap jual[cite: 2].
+Melacak tingkat keberhasilan (*conversion rate*) dari target permintaan *Departemen Sales*, permintaan produksi oleh *Section PPIC* hingga menjadi barang jadi (*Finish Good*) yang dilakukan oleh *Section Production*.
 
 ### [Project 11: Dashboard Lead Time Produksi](Project11_Lead_Time.md)
-Analisis keandalan waktu operasional dengan membandingkan *Actual Lead Time* proses produksi terhadap standar batas waktu (SLA) yang ditetapkan perusahaan[cite: 2].
+Analisis keandalan waktu operasional dengan membandingkan *Actual Lead Time* proses produksi terhadap *Standard Lead Time* yang ditetapkan perusahaan.
 
 ### [Project 12: Dashboard Engineering Plant](Project12_Engineering_Plant.md)
-Fokus proyek ini adalah memantau tren utilisasi kapasitas mesin harian dan menganalisis kesenjangan (*gap*) antara ketersediaan tenaga kerja aktual dengan kebutuhan target[cite: 2].
+Fokus proyek ini adalah memantau tren kebutuhan produksi dengan kapasitas, utilisasi kapasitas mesin harian dan menganalisis kesenjangan (*gap*) antara ketersediaan tenaga kerja aktual dengan kebutuhan target.
 
 ### [Project 13: Dashboard Cost dan Index Product](Project13_Cost_Index.md)
-Dashboard ini mengurai efisiensi dan Biaya Tenaga Kerja Langsung (Cost DL) per unit untuk setiap lini produk (Fitted, Karpet, Rumbai) guna menemukan lini paling tidak efisien[cite: 2].
+Mengurai efisiensi dan Biaya Tenaga Kerja Langsung (Cost DL) per unit untuk setiap lini produk guna menemukan lini paling tidak efisien.
 
 ### [Project 14: Dashboard Proyeksi Penjualan](Project14_Proyeksi_Penjualan.md)
-Analisis tren pasar harian untuk memetakan dominasi *brand* dan tipe produk, yang berfungsi sebagai acuan PPIC dalam memprioritaskan alokasi bahan baku dan produksi[cite: 2].
+Analisis tren pasar harian untuk memetakan dominasi *brand* dan tipe produk, yang berfungsi sebagai acuan *section PPIC* dalam memprioritaskan alokasi bahan baku dan *section Production* untuk urutan produksi.
 
 ### [Project 15: Dashboard Absensi Produksi](Project15_Absensi.md)
-Pemantauan rasio kedisiplinan dan kehadiran (*Attend, Permit, Absent*) karyawan operasional di area *cutting* maupun penjahitan[cite: 2].
+Pemantauan rasio kedisiplinan dan kehadiran karyawan operasional di *section Production* guna mendukung kebutuhan sumber daya manusia berbasis target.
 
 ### [Project 16: Dashboard Hasil Cutting Vs. Scrap](Project16_Scrap_Cutting.md)
-Proyek pemantauan limbah (scrap) ini mengukur efisiensi pemotongan bahan baku dengan menghitung kerugian volume kain yang terbuang sia-sia (Majun, Acat, dll)[cite: 2].
+Proyek pemantauan limbah (*scrap*) ini mengukur efisiensi pemotongan bahan baku dengan menghitung kerugian volume kain yang terbuang.
 
 ### [Project 17: Dashboard Performa Cutting](Project17_Performa_Cutting.md)
-Analisis kemampuan (*ability*) aktual stasiun pemotongan kain (*cutting*) terhadap target standarnya untuk mengukur sejauh mana beban kapasitas mesin dapat dimaksimalkan[cite: 2].
+Analisis kemampuan (*ability*) aktual pemotongan kain (*cutting*) terhadap target standarnya untuk mengukur sejauh mana beban kapasitas dapat dimaksimalkan.
 
 ### [Project 18: Dashboard Defect Product](Project18_Defect_Product.md)
-Proyek ini melacak persentase kegagalan produk (*Barang Sisa/BS*) yang tidak memenuhi standar mutu dan rasio keberhasilan daur ulang menjadi *Co-Product*[cite: 2].
+Proyek ini melacak persentase kegagalan produk yang tidak memenuhi standar mutu dan rasio keberhasilan daur ulang menjadi *Co-Product*.
 
 ### [Project 19: Dashboard QC Plant](Project19_QC_Plant.md)
-Identifikasi akar masalah cacat produk secara komprehensif, mulai dari kualitas buruk *supplier* material (OOC) hingga rincian cacat kelalaian penjahitan (*defect rate*) harian[cite: 2].
+Identifikasi akar masalah cacat produk secara komprehensif, mulai dari kualitas buruk *supplier* material (OOC) hingga rincian cacat kelalaian penjahitan (*defect rate*) harian.
 
 ### [Project 20: Dashboard Performa Admin](Project20_Performa_Admin.md)
-Proyek ini mengaudit kecepatan kerja tim logistik ERP dalam mem-*posting* dokumen sistem (AX), mendeteksi *bottleneck* pencatatan yang menghambat pembaruan stok secara *real-time*[cite: 2].
+Mengaudit kecepatan kerja tim admin di area pabrik khususnya di ERP dalam mem-*posting* dokumen administrasi, mendeteksi *bottleneck* pencatatan yang menghambat pembaruan stok secara *real-time*.
 
 ---
 
