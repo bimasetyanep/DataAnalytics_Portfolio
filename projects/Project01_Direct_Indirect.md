@@ -20,7 +20,7 @@ Secara spesifik, tulang punggung operasional dipegang oleh Operator Sewing (158 
 
 ## Rekomendasi Bisnis
 1. **Hiring Freeze:** Terapkan pembekuan rekrutmen (*hiring freeze*) sementara khusus untuk posisi *Indirect* (Helper, Staff pendukung) untuk mencegah pembengkakan biaya gaji.
-2. **Retensi Pekerja Utama:** Fokuskan anggaran insentif untuk mempertahankan Operator Sewing yang merupakan pusat penciptaan nilai (*value generator*). Targetkan rasio *Direct Labor* berada di atas 75%.
+2. **Retensi Pekerja Utama:** Fokuskan anggaran insentif untuk mempertahankan Operator berbasis *output* (*Direct*) yang merupakan pusat penciptaan nilai (*value generator*). Targetkan rasio *Direct Labor* berada di atas 75%.
 
 ## Catatan Penting
-Hasil pengolahan data ini memberikan perubahan kebijakan di tahun 2026 terkait *labelling* antara departemen HR&GA dan Plant khususnya terkait status yang jelas pada jabatan yang dianggap berbasis *output* *(*Direct*) dan tidak berbasis *output* *(*Indirect*) yang pada tahun sebelumnya tidak terdapat kejelasan status.
+Hasil pengolahan data ini memberikan perubahan kebijakan di tahun 2026 terkait *labelling* antara departemen HR&GA dan Plant khususnya terkait status yang jelas pada jabatan yang dianggap berbasis *output* (*Direct*) dan tidak berbasis *output*(*Indirect*) yang pada tahun sebelumnya tidak terdapat kejelasan status.
