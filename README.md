@@ -47,7 +47,7 @@ Melakukan akumulasi waktu henti (*downtime*) dan memetakan area serta lantai yan
 Proyek ini mengukur *Service Level Agreement* (SLA) masing-masing mekanik di  dalam menangani perbaikan, guna menemukan *gap* keterampilan teknis dalam tim.
 
 ### [Project 6: Dashboard Penggunaan Jarum](Project06_Penggunaan_Jarum.md)
-Analisis preventif terhadap konsumsi jarum jahit harian, mengidentifikasi mesin paling boros jarum dan mencegah kerusakan material akibat jarum tumpul.
+Analisis preventif terhadap konsumsi jarum jahit harian, mengidentifikasi mesin paling boros jarum dan mencegah kerusakan material akibat jarum tumpul maupun patah.
 
 ### [Project 7: Dashboard Penggunaan Spareparts](Project07_Penggunaan_Spareparts.md)
 Visualisasi tingkat konsumsi suku cadang pabrik untuk optimalisasi *Minimum Order Quantity* (MOQ) dan mengontrol pengeluaran biaya perbaikan.
