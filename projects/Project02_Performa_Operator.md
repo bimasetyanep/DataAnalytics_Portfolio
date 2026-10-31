@@ -2,7 +2,7 @@
 
 Proyek ini melacak efisiensi waktu kerja dan capaian target (*Target/Capacity Performance*) harian para operator. Analisis ini sangat penting untuk menemukan kebocoran produktivitas dari aspek gerakan dan alur kerja.
 
-![Dashboard Performa Operator](images/dashboard_performa_operator.png)
+![Dashboard Performa Operator](../images/dashboard_performa_operator.png)
 
 ## Overview Masalah
 Dari pantauan 279 total operator di 21 lini produksi, tingkat rata-rata pencapaian (*Avg Pencapaian*) tidak maksimal, hanya berada di angka 79,89% dengan rata-rata indeks capaian di 22,96.
