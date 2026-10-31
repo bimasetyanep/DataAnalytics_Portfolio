@@ -23,4 +23,4 @@ Secara spesifik, tulang punggung operasional dipegang oleh Operator Sewing (158 
 2. **Retensi Pekerja Utama:** Fokuskan anggaran insentif untuk mempertahankan Operator Sewing yang merupakan pusat penciptaan nilai (*value generator*). Targetkan rasio *Direct Labor* berada di atas 75%.
 
 ## Catatan Penting
-Hasil pengolahan data ini memberikan perubahan kebijakan di tahun 2026 terkait perubahan antara departemen HR&GA dan Plant saling terhubung khususnya terkait status yang jelas pada jabatan yang dianggap berbasis *output* *(*Direct*) dan tidak berbasis *output* *(*Indirect*)
+Hasil pengolahan data ini memberikan perubahan kebijakan di tahun 2026 terkait *labelling* antara departemen HR&GA dan Plant khususnya terkait status yang jelas pada jabatan yang dianggap berbasis *output* *(*Direct*) dan tidak berbasis *output* *(*Indirect*) yang pada tahun sebelumnya tidak terdapat kejelasan status.
