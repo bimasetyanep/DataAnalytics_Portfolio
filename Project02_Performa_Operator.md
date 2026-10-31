@@ -15,4 +15,4 @@ Kesenjangan efisiensi sebesar 20% ternyata tidak disebabkan oleh mesin rusak, me
 2. **Implementasi Sistem Tarik (Kanban):** Terapkan sistem penyediaan material secara *Just-in-Time* agar gudang menyuplai kain tepat sebelum habis, memutus rantai masalah "Supply Telat".
 
 ## Catatan Penting
-Untuk pencatatan di produksi dengan model kanban sudah diterima oleh manajemen dengan saran untuk peralihan ke digitalisasi input yang sebelumnya berbasis manual dan tidak tercatat secara dokumen di komputer. Karena ini penting untuk keperluan (*line balancing*) yang terkontrol oleh *Industrial Engineering* (IE).
+Untuk pencatatan di produksi dengan model kanban sudah diterima oleh manajemen dengan saran untuk peralihan ke digitalisasi input yang sebelumnya berbasis manual dan tidak tercatat secara dokumen di komputer. Karena ini penting untuk keperluan (*line balancing*) yang terkontrol oleh tim *Industrial Engineering* (IE).
