@@ -2,7 +2,7 @@
 
 Proyek pemantauan rantai pasok (*supply chain*) ini berfokus pada kepatuhan jadwal pengiriman dari pihak eksternal untuk memitigasi risiko kelangkaan bahan baku (*stockout*).
 
-![Dashboard ETA ATA Kontainer](images/dashboard_eta_ata_kontainer.png)
+![Dashboard ETA ATA Kontainer](../images/dashboard_eta_ata_kontainer.png)
 
 ## Isu
 Jadwal kedatangan bahan baku logistik sangat tidak stabil. Keterlambatan suplai mengganggu jadwal perencanaan produksi (PPIC) dan memicu masalah mesin menganggur (*idle*) di area pabrik.
