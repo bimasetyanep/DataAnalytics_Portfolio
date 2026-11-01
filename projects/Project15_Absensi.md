@@ -1,6 +1,6 @@
 # Project 15: Dashboard Absensi Produksi
 
-Pemantauan rasio kedisiplinan dan tingkat kehadiran (*Attend, Permit, Absent*) dari operator di *section Production*.
+Pemantauan rasio kedisiplinan dan tingkat kehadiran (*Attend, Permit, Absent*) dari karyawan di *section Production*.
 
 ![Dashboard Absensi Produksi](../images/dashboard_absensi_produksi1.png)
 
