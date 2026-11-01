@@ -19,4 +19,4 @@ Di area internal penjahitan (Produksi), tim berhasil menjaga tingkat cacat kesel
 
 ## Saran
 1. **Negosiasi Supplier:** Karantina, retur, atau hentikan pengadaan bahan sementara dari *Supplier* NY karena 1/4 pasokannya gagal lolos batas kendali (*OOC*).
-2. **Kalibrasi & *Training* Spesifik:** Kesalahan rumbai dan klim menandakan operator gagal menjaga konsistensi lipatan jahitan. *Supervisor Sewing* harus melakukan *training* harian kilat dan rutin mengecek pengaturan sepatu jahit di seluruh lini mesin obras/klim.
+2. **Kalibrasi & *Training* Spesifik:** Kesalahan rumbai dan klim menandakan operator gagal menjaga konsistensi lipatan jahitan. *Supervisor Sewing* harus melakukan *training* harian kilat dan kolaborasi dengan tim Mekanik untuk rutin mengecek pengaturan sepatu jahit di seluruh lini mesin obras/klim.
