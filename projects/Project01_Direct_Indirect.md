@@ -19,7 +19,7 @@ Berdasarkan data terkini, rasio tenaga kerja masih dapat dipertahankan di angka 
 Secara spesifik, tulang punggung operasional dipegang oleh Operator Sewing (158 orang) dan Finishing (55 orang). Namun, proporsi pekerja pendukung (*Indirect*) seperti Worker QC (15) dan Helper Rework (15) mengambil porsi yang cukup besar (32%). Jika volume pesanan turun, rasio 32% *indirect labor* ini akan membebani *fixed cost* perusahaan secara tidak proporsional.
 
 ## Saran
-1. **Hiring Freeze:** Terapkan pembekuan rekrutmen (*hiring freeze*) sementara khusus untuk posisi *Indirect* (Helper, Staff pendukung) untuk mencegah pembengkakan biaya gaji.
+1. ***Hiring Freeze*:** Terapkan pembekuan rekrutmen (*hiring freeze*) sementara khusus untuk posisi *Indirect* (Helper, Staff pendukung) untuk mencegah pembengkakan biaya gaji.
 2. **Retensi Pekerja Utama:** Fokuskan anggaran insentif untuk mempertahankan Operator berbasis *output* (*Direct*) yang merupakan pusat penciptaan nilai (*value generator*). Targetkan rasio *Direct Labor* berada di atas 75%.
 
 ## Catatan
