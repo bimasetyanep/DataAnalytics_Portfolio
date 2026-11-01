@@ -96,39 +96,39 @@ Mengaudit kecepatan kerja tim admin di area pabrik khususnya di ERP dalam mem-*p
 ## Tools & Technologies
 <table>
   <tr>
-    <td width="180"><b>Visualisasi Data</b></td>
+    <td width="160"><b>Visualisasi Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-      <img src="https://img.shields.io/badge/GOOGLE%20DATA%20STUDIO-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Pengolahan Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/POWER%20QUERY%20MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-      <img src="https://img.shields.io/badge/POWER%20PIVOT%20MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-      <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power%20Pivot-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Presentasi Laporan</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MICROSOFT%20POWERPOINT-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Otomatisasi Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/GOOGLE%20APPS%20SCRIPT-4285F4?style=for-the-badge&logo=google-app-script&logoColor=white" />
-      <img src="https://img.shields.io/badge/VBA%20MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white" />
+      <img src="https://img.shields.io/badge/VBA%20Excel-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>ERP</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MICROSOFT%20DYNAMICS%20AX-002050?style=for-the-badge&logo=microsoft&logoColor=white" />
-      <img src="https://img.shields.io/badge/ODOO-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-      <img src="https://img.shields.io/badge/ACCURATE%20ACCOUNTING-22B14C?style=for-the-badge&logo=cashapp&logoColor=white" />
+      <img src="https://img.shields.io/badge/MS%20Dynamics%20AX-002050?style=for-the-badge&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Accurate%20Accounting-22B14C?style=for-the-badge&logo=cashapp&logoColor=white" />
     </td>
   </tr>
 </table>
