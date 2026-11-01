@@ -16,6 +16,6 @@ Manajemen perlu mengetahui apakah nilai aset permesinan di lantai pabrik telah d
 ## Analisis Data
 Di luar ekspektasi, tingkat *OEE* pabrik berada di angka kumulatif 89,7%. Rinciannya sangat positif: *Availability* mesin di 90,1%, *Performance* berjalan sempurna 100,0%, dan tingkat *Quality* mencapai 99,6%. Skor OEE di atas 85% menunjukkan pabrik telah beroperasi pada level *World-Class Manufacturing*. Artinya, ketika mesin tidak rusak, mesin tersebut bekerja pada kecepatan dan kualitas maksimum.
 
-## Rekomendasi Bisnis
+## Saran
 1. **Pertahankan Kondisi Mesin Inti:** Tidak diperlukan alokasi *Capital Expenditure* (*Capex*) untuk meremajakan (membeli baru) mesin-mesin utama dalam waktu dekat karena kemampuannya masih maksimal (Performa 100%).
 2. **Fokus pada *Availability*:** Strategi bisnis ke depan hanya perlu difokuskan pada pemangkasan *downtime* (Meningkatkan *Availability*) melalui *preventive maintenance*, tanpa mengganggu siklus lari (*run cycle*) permesinan.
