@@ -2,7 +2,7 @@
 
 Proyek ini melacak pemakaian keseluruhan suku cadang pabrik untuk optimalisasi pengadaan (*procurement*) dan menekan pengeluaran perbaikan fasilitas.
 
-![Dashboard Penggunaan Spareparts](images/dashboard_penggunaan_spareparts.png)
+![Dashboard Penggunaan Spareparts](../images/dashboard_penggunaan_spareparts.png)
 
 ## Isu
 Pabrik harus menyediakan anggaran harian yang cukup besar untuk memfasilitasi penggantian 1.392 suku cadang dengan rata-rata arus pengeluaran gudang sebanyak 73 *spareparts* per hari.
