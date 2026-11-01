@@ -14,4 +14,4 @@ Lini "Fitted" terbukti beroperasi sangat efisien (85,7%) dengan pengeluaran *Avg
 
 ## Saran
 1. **Intervensi *IE*:** Langkah aksi dari tim *Industrial Engineering* (IE) untuk melakukan observasi *Time & Motion Study* di line Karpet.
-2. **Redesain Proses (Alat Bantu):** Rancang alat bantu pelipatan/penjahitan (*jig*) atau perbaiki susunan area kerja pada kedua lini tersebut agar durasi pengerjaan (*Standard Minute Value*) menyusut dan efisiensi meningkat melewati batas wajar 80%.
+2. **Redesain Proses (Alat Bantu):** Rancang alat bantu pelipatan/penjahitan (*jig*) atau perbaiki susunan area kerja pada lini tersebut agar durasi pengerjaan (*Standard Minute Value*) menyusut dan efisiensi meningkat melewati batas wajar 80%.
