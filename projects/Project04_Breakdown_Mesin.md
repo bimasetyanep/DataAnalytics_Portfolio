@@ -15,4 +15,4 @@ Kebocoran anggaran perbaikan terpusat pada dua zona kritis: Lantai 1 (Rp9.587.97
 2. **Perubahan Strategi Perawatan:** Hentikan pemeliharaan reaktif (*run-to-failure*). Implementasikan *Preventive Maintenance* berjadwal ketat di dua lantai tersebut untuk menekan angka *Breakdown Time* ke bawah 10%.
 
 ## Catatan
-Pada beberapa mesin produksi yang menggunakan teknologi *inverted* sudah dilakukan pengecekan oleh tim teknisi dari *GA* bersama pihak teknisi eksternal dan ditemukan bahwa kondisi listik di pabrik tidak stabil dan *grounding* bermasalah.
+Pada beberapa mesin produksi yang menggunakan teknologi *inverted* sudah dilakukan pengecekan oleh tim teknisi dari *GA* bersama pihak teknisi eksternal dan ditemukan bahwa kondisi listrik di pabrik tidak stabil dan *grounding* bermasalah.
