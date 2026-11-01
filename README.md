@@ -26,6 +26,7 @@ Selamat datang di portofolio analisis data saya! Berisi kumpulan proyek pembuata
 * [Project 18: Dashboard *Defect Product*](projects/Project18_Defect_Product.md)
 * [Project 19: Dashboard *QC Plant*](projects/Project19_QC_Plant.md)
 * [Project 20: Dashboard Performa Admin](projects/Project20_Performa_Admin.md)
+* [Project 21: Otomatisasi Data *Plant*](projects/Project21_Otomatisasi_Data_Plant.md)
 
 ---
 
@@ -90,6 +91,9 @@ Identifikasi akar masalah cacat produk secara komprehensif, mulai dari kualitas 
 
 ### [Project 20: Dashboard Performa Admin](projects/Project20_Performa_Admin.md)
 Mengaudit kecepatan kerja tim admin di area pabrik khususnya di *ERP* dalam mem-*posting* dokumen administrasi, mendeteksi *bottleneck* pencatatan yang menghambat pembaruan stok secara *real-time*.
+
+### [Project 21: Otomatisasi Data *Plant*](projects/Project21_Otomatisasi_Data_Plant.md)
+Melakuan proses digitalisai input di area pabrik untuk mengurangi penggunaan kertas dan menyajikan data secara *real-time*.
 
 ---
 
