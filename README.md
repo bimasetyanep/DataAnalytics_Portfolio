@@ -94,9 +94,39 @@ Mengaudit kecepatan kerja tim admin di area pabrik khususnya di ERP dalam mem-*p
 ---
 
 ## Tools & Technologies
-* **Visualisasi Data:** ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-* **Pengolahan Data:** ![Power Query Microsoft Excel](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Power Pivot Microsoft Excel](https://img.shields.io/badge/Power%20Pivot-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-* **Lainnya:** ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) (Presentasi Laporan) | ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-app-script&logoColor=white) ![VBA Microsoft Excel](https://img.shields.io/badge/VBA%20Excel-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white) (Otomatisasi Data) | ![Microsoft Dynamics AX](https://img.shields.io/badge/MS%20Dynamics%20AX-002050?style=for-the-badge&logo=microsoft&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white) ![Accurate](https://img.shields.io/badge/Accurate%20Accounting-22B14C?style=for-the-badge&logo=cashapp&logoColor=white) (ERP)
+<table>
+  <tr>
+    <td width="160"><b>Visualisasi Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/GOOGLE%20DATA%20STUDIO-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Pengolahan Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/POWER%20QUERY-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/POWER%20PIVOT-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Lainnya</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MICROSOFT%20POWERPOINT-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> <code>(Presentasi Laporan)</code>
+      <img src="https://img.shields.io/badge/GOOGLE%20APPS%20SCRIPT-4285F4?style=for-the-badge&logo=google-app-script&logoColor=white" />
+      <img src="https://img.shields.io/badge/VBA%20EXCEL-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <code>(Otomatisasi Data)</code>
+    </td>
+  </tr>
+  <tr>
+    <td><b>ERP & Sistem</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MS%20DYNAMICS%20AX-002050?style=for-the-badge&logo=microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/ODOO-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+      <img src="https://img.shields.io/badge/ACCURATE%20ACCOUNTING-22B14C?style=for-the-badge&logo=cashapp&logoColor=white" /> <code>(ERP)</code>
+    </td>
+  </tr>
+</table>
 
 ## Kontak
 Jika Anda tertarik dengan portofolio saya atau ingin berdiskusi mengenai analisis data, jangan ragu untuk menghubungi saya melalui:
