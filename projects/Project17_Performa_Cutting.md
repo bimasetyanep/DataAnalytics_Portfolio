@@ -2,7 +2,13 @@
 
 Analisis kapasitas operasional aktual dari *sub section cutting* terhadap target kecepatan standarnya untuk mengukur ketersediaan utilitas ruang mesin.
 
-![Dashboard Performa Cutting](../images/dashboard_performa_cutting.png)
+![Dashboard Performa Cutting](../images/dashboard_performa_cutting1.png)
+
+![Dashboard Performa Cutting](../images/dashboard_performa_cutting2.png)
+
+![Dashboard Performa Cutting](../images/dashboard_performa_cutting3.png)
+
+![Dashboard Performa Cutting](../images/dashboard_performa_cutting4.png)
 
 ## Isu
 Pabrik perlu mengetahui apakah *sub section cutting* sanggup menerima tambahan lonjakan permintaan mendadak (*surge order*) di akhir tahun tanpa harus membeli mesin potong baru.
