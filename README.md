@@ -6,30 +6,30 @@ Selamat datang di portofolio analisis data saya! Berisi kumpulan proyek pembuata
 
 ## Daftar Isi
 
-* [Project 1: Dashboard Direct dan Indirect Plant](projects/Project01_Direct_Indirect.md)
+* [Project 1: Dashboard *Direct* dan *Indirect Plant*](projects/Project01_Direct_Indirect.md)
 * [Project 2: Dashboard Performa Operator](projects/Project02_Performa_Operator.md)
-* [Project 3: Dashboard Customer Complaint](projects/Project03_Customer_Complaint.md)
-* [Project 4: Dashboard Breakdown Mesin](projects/Project04_Breakdown_Mesin.md)
+* [Project 3: Dashboard *Customer Complaint*](projects/Project03_Customer_Complaint.md)
+* [Project 4: Dashboard *Breakdown Mesin*](projects/Project04_Breakdown_Mesin.md)
 * [Project 5: Dashboard Performa Mekanik](projects/Project05_Performa_Mekanik.md)
 * [Project 6: Dashboard Penggunaan Jarum](projects/Project06_Penggunaan_Jarum.md)
-* [Project 7: Dashboard Penggunaan Spareparts](projects/Project07_Penggunaan_Spareparts.md)
-* [Project 8: Dashboard OEE (Overall Equipment Effectiveness)](projects/Project08_OEE.md)
-* [Project 9: Dashboard ETA VS. ATA Kontainer](projects/Project09_ETA_ATA.md)
-* [Project 10: Dashboard Tracker Sales Order, Production Order, Finish Good](projects/Project10_Tracker_Produksi.md)
-* [Project 11: Dashboard Lead Time Produksi](projects/Project11_Lead_Time.md)
-* [Project 12: Dashboard Engineering Plant](projects/Project12_Engineering_Plant.md)
-* [Project 13: Dashboard Cost dan Index Product](projects/Project13_Cost_Index.md)
+* [Project 7: Dashboard Penggunaan *Spareparts*](projects/Project07_Penggunaan_Spareparts.md)
+* [Project 8: Dashboard *OEE (Overall Equipment Effectiveness)*](projects/Project08_OEE.md)
+* [Project 9: Dashboard *ETA Vs. ATA* Kontainer](projects/Project09_ETA_ATA.md)
+* [Project 10: Dashboard *Tracker Sales Order, Production Order, Finish Good*](projects/Project10_Tracker_Produksi.md)
+* [Project 11: Dashboard *Lead Time* Produksi](projects/Project11_Lead_Time.md)
+* [Project 12: Dashboard *Engineering Plant*](projects/Project12_Engineering_Plant.md)
+* [Project 13: Dashboard *Cost dan Index Product*](projects/Project13_Cost_Index.md)
 * [Project 14: Dashboard Proyeksi Penjualan](projects/Project14_Proyeksi_Penjualan.md)
 * [Project 15: Dashboard Absensi Produksi](projects/Project15_Absensi.md)
-* [Project 16: Dashboard Hasil Cutting Vs. Scrap](projects/Project16_Scrap_Cutting.md)
-* [Project 17: Dashboard Performa Cutting](projects/Project17_Performa_Cutting.md)
-* [Project 18: Dashboard Defect Product](projects/Project18_Defect_Product.md)
-* [Project 19: Dashboard QC Plant](projects/Project19_QC_Plant.md)
+* [Project 16: Dashboard Hasil *Cutting Vs. Scrap*](projects/Project16_Scrap_Cutting.md)
+* [Project 17: Dashboard Performa *Cutting*](projects/Project17_Performa_Cutting.md)
+* [Project 18: Dashboard *Defect Product*](projects/Project18_Defect_Product.md)
+* [Project 19: Dashboard *QC Plant*](projects/Project19_QC_Plant.md)
 * [Project 20: Dashboard Performa Admin](projects/Project20_Performa_Admin.md)
 
 ---
 
-## Ringkasan Projects
+## Ringkasan *Projects*
 
 ### [Project 1: Dashboard Direct dan Indirect Plant](projects/Project01_Direct_Indirect.md)
 Memantau fluktuasi jumlah tenaga kerja dan rasio berbasis *output* (*Direct*) vs tidak berbasis *output* (*Indirect*) untuk mengevaluasi kebutuhan untuk *Man Power Planning* di akhir bulan.
@@ -52,7 +52,7 @@ Analisis preventif terhadap konsumsi jarum jahit harian, mengidentifikasi mesin 
 ### [Project 7: Dashboard Penggunaan *Spareparts*](projects/Project07_Penggunaan_Spareparts.md)
 Visualisasi tingkat konsumsi suku cadang pabrik untuk optimalisasi *Minimum Order Quantity* (MOQ) dan mengontrol pengeluaran biaya perbaikan.
 
-### [Project 8: Dashboard OEE (*Overall Equipment Effectiveness*)](projects/Project08_OEE.md)
+### [Project 8: Dashboard *OEE (Overall Equipment Effectiveness)*](projects/Project08_OEE.md)
 Proyek ini menggunakan metrik standar global (*Availability*, *Performance*, *Quality*) untuk menilai seberapa efektif mesin pabrik beroperasi secara keseluruhan.
 
 ### [Project 9: Dashboard *ETA VS. ATA* Kontainer](projects/Project09_ETA_ATA.md)
