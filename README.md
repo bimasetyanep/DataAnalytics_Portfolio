@@ -1,6 +1,6 @@
 # Portofolio Analisis Data
 
-Selamat datang di portofolio analisis data saya! Berisi kumpulan proyek pembuatan *dashboard* dan pelaporan analitik yang berfokus pada berbagai departemen operasional manufaktur/pabrik. Seluruh visualisasi data di bawah ini dirancang untuk memantau Balanced Scorecard (BSC), efisiensi produksi, dan kinerja sumber daya manusia.
+Selamat datang di portofolio analisis data saya! Berisi kumpulan proyek pembuatan *dashboard* dan pelaporan analitik yang berfokus pada berbagai departemen operasional manufaktur/pabrik. Seluruh visualisasi data di bawah ini dirancang untuk memantau *Balanced Scorecard (BSC)*, efisiensi produksi, dan kinerja sumber daya manusia.
 
 ---
 
