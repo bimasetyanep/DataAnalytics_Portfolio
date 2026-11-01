@@ -14,5 +14,5 @@ Dua masalah terbesar mendominasi grafik kategori komplain: "Kelengkapan Komponen
 1. **Otomatisasi Inspeksi Berat:** Pasang timbangan sensor otomatis (*weight checker*). Jika berat paket tidak sesuai dengan *master data* (kurang komponen), alarm akan berbunyi dan paket ditolak.
 2. **Quality Check Berlapis:** Terapkan sistem *2-step verification* di mana *Packer* dan *QC Final* harus menandatangani label bersama sebelum dus ditutup rapat.
 
-## Catatan Penting
+## Catatan
 Untuk penyediaan timbangan berbasis sensor otomatis sudah dilakukan namun di sektor ekspor saja. Dengan munculnya data ini diharapkan pada periode depan menjadi pertimbangan untuk juga dilakukan pada produk reguler.
