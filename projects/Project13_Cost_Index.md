@@ -13,5 +13,5 @@ Manajemen membutuhkan transparansi untuk mengetahui lini produk mana yang mengge
 Lini "Fitted" terbukti beroperasi sangat efisien (85,7%) dengan pengeluaran *Avg Cost DL* paling murah yakni Rp2.500,8/set. Sebaliknya, lini "Multiproduct Karpet" menjadi yang paling inefisien; efisiensinya terpuruk di 73,6% dengan *Cost DL* bengkak hingga Rp6.386,4/set.
 
 ## Saran
-1. **Intervensi *IE*:** Langkah aksi dari tim *Industrial Engineering* (IE) untuk melakukan observasi *Time & Motion Study* di line Karpet dan BC Fitted.
+1. **Intervensi *IE*:** Langkah aksi dari tim *Industrial Engineering* (IE) untuk melakukan observasi *Time & Motion Study* di line Karpet.
 2. **Redesain Proses (Alat Bantu):** Rancang alat bantu pelipatan/penjahitan (*jig*) atau perbaiki susunan area kerja pada kedua lini tersebut agar durasi pengerjaan (*Standard Minute Value*) menyusut dan efisiensi meningkat melewati batas wajar 80%.
