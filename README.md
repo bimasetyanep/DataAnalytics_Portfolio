@@ -9,7 +9,7 @@ Selamat datang di portofolio analisis data saya! Berisi kumpulan proyek pembuata
 * [Project 1: Dashboard *Direct* dan *Indirect Plant*](projects/Project01_Direct_Indirect.md)
 * [Project 2: Dashboard Performa Operator](projects/Project02_Performa_Operator.md)
 * [Project 3: Dashboard *Customer Complaint*](projects/Project03_Customer_Complaint.md)
-* [Project 4: Dashboard *Breakdown Mesin*](projects/Project04_Breakdown_Mesin.md)
+* [Project 4: Dashboard *Breakdown* Mesin](projects/Project04_Breakdown_Mesin.md)
 * [Project 5: Dashboard Performa Mekanik](projects/Project05_Performa_Mekanik.md)
 * [Project 6: Dashboard Penggunaan Jarum](projects/Project06_Penggunaan_Jarum.md)
 * [Project 7: Dashboard Penggunaan *Spareparts*](projects/Project07_Penggunaan_Spareparts.md)
@@ -40,7 +40,7 @@ Melaporkan pencapaian kerja operator produksi, *index* antar *sub section* produ
 ### [Project 3: Dashboard *Customer Complaint*](projects/Project03_Customer_Complaint.md)
 Analisis akar penyebab keluhan pelanggan, memisahkan kesalahan antara kelalaian pabrik internal (misal: kelengkapan komponen) dan material cacat dari pihak pemasok (*supplier*).
 
-### [Project 4: Dashboard *Breakdown Mesin*](projects/Project04_Breakdown_Mesin.md)
+### [Project 4: Dashboard *Breakdown* Mesin](projects/Project04_Breakdown_Mesin.md)
 Melakukan akumulasi waktu henti (*downtime*) dan memetakan area serta lantai yang paling banyak mengeluarkan biaya perbaikan (*maintenance cost*) akibat kerusakan mesin.
 
 ### [Project 5: Dashboard Performa Mekanik](projects/Project05_Performa_Mekanik.md)
