@@ -1,4 +1,4 @@
-# Project 3: Dashboard Customer Complaint
+# Project 3: Dashboard *Customer Complaint*
 
 Proyek ini membedah tren keluhan pelanggan terkait produk. Dengan memisahkan akar penyebab masalah, pabrik dapat menentukan apakah kesalahan berada di internal atau pada pihak eksternal (*supplier*).
 
