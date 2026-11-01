@@ -94,9 +94,9 @@ Mengaudit kecepatan kerja tim admin di area pabrik khususnya di ERP dalam mem-*p
 ---
 
 ## Tools & Technologies
-* **Visualisasi Data:** Microsoft Excel / Google Data Studio
-* **Pengolahan Data:** Power Pivot Microsoft Excel / Power Query Microsoft Excel / Google Sheets
-* **Lainnya:** PowerPoint (Presentasi Laporan) / Google Apps Script & VBA Microsoft Excel (Otomatisasi Data)
+* **Visualisasi Data:** ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+* **Pengolahan Data:** ![Power Query Microsoft Excel](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Power Pivot Microsoft Excel](https://img.shields.io/badge/Power%20Pivot-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+* **Lainnya:** ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) (Presentasi Laporan) | ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-app-script&logoColor=white) ![VBA Microsoft Excel](https://img.shields.io/badge/VBA%20Excel-5C2D91?style=for-the-badge&logo=visual-studio-code&logoColor=white) (Otomatisasi Data) | ![Microsoft Dynamics AX](https://img.shields.io/badge/MS%20Dynamics%20AX-002050?style=for-the-badge&logo=microsoft&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white) ![Accurate](https://img.shields.io/badge/Accurate%20Accounting-22B14C?style=for-the-badge&logo=cashapp&logoColor=white) (ERP)
 
 ## Kontak
 Jika Anda tertarik dengan portofolio saya atau ingin berdiskusi mengenai analisis data, jangan ragu untuk menghubungi saya melalui:
