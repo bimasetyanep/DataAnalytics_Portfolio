@@ -2,7 +2,7 @@
 
 Proyek ini berfokus pada keandalan aset mesin pabrik. Saya menganalisis akumulasi waktu henti (*downtime*) dan memetakan zona mana di lantai produksi yang paling membocorkan anggaran perbaikan akibat kerusakan mendadak.
 
-![Dashboard Breakdown Mesin](images/dashboard_breakdown_mesin.png)
+![Dashboard Breakdown Mesin](../images/dashboard_breakdown_mesin.png)
 
 ## Isu
 Tingginya gangguan produksi tercermin dari hilangnya waktu operasional sebesar 91.433 menit akibat mesin rusak, yang menyumbang tingkat *Breakdown Time* sebesar 21,5%. Hal ini disertai dengan pengeluaran *Maintenance Cost* sebesar Rp23.883.214 pada periode tersebut.
