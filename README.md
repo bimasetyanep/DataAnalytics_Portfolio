@@ -98,7 +98,7 @@ Mengaudit kecepatan kerja tim admin di area pabrik khususnya di ERP dalam mem-*p
   <tr>
     <td width="180"><b>Visualisasi Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MICROSOFT%20EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
       <img src="https://img.shields.io/badge/GOOGLE%20DATA%20STUDIO-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
     </td>
   </tr>
