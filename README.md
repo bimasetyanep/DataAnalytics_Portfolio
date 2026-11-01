@@ -4,7 +4,7 @@ Selamat datang di portofolio analisis data saya! Berisi kumpulan proyek pembuata
 
 ---
 
-## Table of Contents
+## Daftar Isi
 
 * [Project 1: Dashboard Direct dan Indirect Plant](projects/Project01_Direct_Indirect.md)
 * [Project 2: Dashboard Performa Operator](projects/Project02_Performa_Operator.md)
@@ -29,7 +29,7 @@ Selamat datang di portofolio analisis data saya! Berisi kumpulan proyek pembuata
 
 ---
 
-## Projects Overview
+## Ringkasan Projects
 
 ### [Project 1: Dashboard Direct dan Indirect Plant](projects/Project01_Direct_Indirect.md)
 Memantau fluktuasi jumlah tenaga kerja dan rasio berbasis *output* (Direct) vs tidak berbasis *output* (Indirect) untuk mengevaluasi kebutuhan untuk *man power planning* di akhir bulan.
@@ -93,7 +93,7 @@ Mengaudit kecepatan kerja tim admin di area pabrik khususnya di ERP dalam mem-*p
 
 ---
 
-## Tools & Technologies
+## Alat Bantu & Teknologi
 <table>
   <tr>
     <td width="180"><b>Visualisasi Data</b></td>
