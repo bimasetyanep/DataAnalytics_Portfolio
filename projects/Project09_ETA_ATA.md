@@ -15,4 +15,4 @@ Pemantauan *Estimated Time of Arrival* (ETA) versus *Actual Time of Arrival* (AT
 2. ***Multi-Sourcing Strategy*:** Tim Pengadaan harus segera mencari dan menyetujui minimal 2 *supplier* cadangan untuk kategori bahan baku yang dipasok oleh JY dan NT guna mendiversifikasi risiko gangguan pasokan.
 
 ## Catatan
-Informasi mengenai performa keterlambatan kedatangan kontainer pada *raw material* sudah masuk di jajaran manajerial untuk dilakukan evaluasi. Karena akan mengganggu *supply chain* di *section production* dan tentunya perhitungan *Break Even Point (BEP)* serta *Return on Investment (ROI)* akan semakin bertambah waktunya khususnya jika kondisi mesin dalam status *idle*.
+Informasi mengenai performa keterlambatan kedatangan kontainer pada *raw material* sudah masuk di jajaran manajerial untuk dilakukan evaluasi. Karena akan mengganggu *supply chain* di *section production* dan tentunya perhitungan *Break Even Point (BEP)* serta *Return on Investment (ROI)* akan semakin bertambah waktunya, terlebih jika kondisi mesin dalam status *idle*.
