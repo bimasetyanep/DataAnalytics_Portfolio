@@ -1,4 +1,4 @@
-# Project 1: Dashboard Direct dan Indirect Plant
+# Project 1: Dashboard *Direct* dan *Indirect Plant*
 
 Dalam proyek ini, saya menganalisis fluktuasi demografi tenaga kerja harian di pabrik serta rasio penempatannya (*Direct* vs *Indirect Labor*). Fokus utama proyek ini adalah mengidentifikasi efisiensi pengeluaran *overhead* tenaga kerja di tengah tren pergerakan jumlah karyawan.
 
