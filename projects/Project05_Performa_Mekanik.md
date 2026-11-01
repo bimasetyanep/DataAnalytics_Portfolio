@@ -2,15 +2,7 @@
 
 Proyek ini mengukur produktivitas dan kecepatan respon individu tim *Maintenance* (Mekanik). Tujuannya adalah mengidentifikasi *Service Level Agreement* (SLA) perbaikan dan standarisasi keahlian teknis.
 
-![Dashboard Performa Mekanik1](../images/dashboard_performa_mekanik1.png)
-
-![Dashboard Performa Mekanik2](../images/dashboard_performa_mekanik2.png)
-
 ![Dashboard Performa Mekanik3](../images/dashboard_performa_mekanik3.png)
-
-![Dashboard Performa Mekanik4](../images/dashboard_performa_mekanik4.png)
-
-![Dashboard Performa Mekanik5](../images/dashboard_performa_mekanik5.png)
 
 ![Dashboard Performa Mekanik6](../images/dashboard_performa_mekanik6.png)
 
