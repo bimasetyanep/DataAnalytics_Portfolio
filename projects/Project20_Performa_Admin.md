@@ -15,7 +15,7 @@ Meskipun arus pergerakan barang fisik di lapangan lancar, sistem sering menunjuk
 
 ## Analisis Data
 Kinerja pembuatan dokumen distribusi logistik seperti *Bacth Order* (BO) dan *Transfer Order* (TO) sangat cepat, di mana rata-rata pencatatan selesai ditutup dalam 1 Hari kerja.
-Namun, terjadi kemacetan (*bottleneck*) administratif parah di *Inventory Jurnal Transfer (IJT)* *Transfer WH & Alokasi* (dengan total beban 3.222 tugas). Rata-rata waktu penyelesaian dokumen di sektor ini memakan waktu lambat hingga 3 Hari. Kepadatan tertinggi bersumber dari dokumen jenis *Transfer WH to WH WONO* yang mencapai 1.227 *posting* tertunda.
+Namun, terjadi kemacetan (*bottleneck*) administratif parah di *Inventory Jurnal Transfer (IJT)* (dengan total beban 3.222 tugas). Rata-rata waktu penyelesaian dokumen di sektor ini memakan waktu lambat hingga 3 Hari. Kepadatan tertinggi bersumber dari dokumen jenis *Transfer WH to WH WONO* yang mencapai 1.227 *posting* tertunda.
 
 ## Saran
 1. **Otomatisasi ERP Mobile (Barcode):** Selama admin di Plant masih menggunakan input manual (kertas ke komputer), jeda 3 hari *inventory lag* ini akan terus terjadi. Perusahaan harus berinvestasi pada *PDA Barcode Scanner* di semua *section* tidak hanya di *section warehouse* saja. Ketika material dipindahkan dari rak, *scanner* akan seketika mengeksekusi perpindahan secara *real-time* ke sistem AX, menghapus kemacetan 72 jam menjadi 0.
