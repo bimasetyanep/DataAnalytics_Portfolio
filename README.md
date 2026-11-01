@@ -93,7 +93,7 @@ Identifikasi akar masalah cacat produk secara komprehensif, mulai dari kualitas 
 Mengaudit kecepatan kerja tim admin di area pabrik khususnya di *ERP* dalam mem-*posting* dokumen administrasi, mendeteksi *bottleneck* pencatatan yang menghambat pembaruan stok secara *real-time*.
 
 ### [Project 21: Otomatisasi Data *Plant*](projects/Project21_Otomatisasi_Data_Plant.md)
-Melakuan proses digitalisai input di area pabrik untuk mengurangi penggunaan kertas dan menyajikan data secara *real-time*.
+Melakuan proses digitalisai input data di area pabrik untuk mengurangi penggunaan kertas dan menyajikan data secara *real-time*.
 
 ---
 
