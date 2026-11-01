@@ -31,7 +31,7 @@ Selamat datang di portofolio analisis data saya! Berisi kumpulan proyek pembuata
 
 ## Ringkasan *Projects*
 
-### [Project 1: Dashboard Direct dan Indirect Plant](projects/Project01_Direct_Indirect.md)
+### [Project 1: Dashboard *Direct* dan *Indirect Plant*](projects/Project01_Direct_Indirect.md)
 Memantau fluktuasi jumlah tenaga kerja dan rasio berbasis *output* (*Direct*) vs tidak berbasis *output* (*Indirect*) untuk mengevaluasi kebutuhan untuk *Man Power Planning* di akhir bulan.
 
 ### [Project 2: Dashboard Performa Operator](projects/Project02_Performa_Operator.md)
